@@ -1,0 +1,22 @@
+{
+  "name": "@kamal-02/audit-logger",
+  "version": "1.0.3",
+  "main": "index.js",
+  "description": "A lightweight audit logger using Winston and Loki",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audit",
+    "logger",
+    "loki",
+    "winston"
+  ],
+  "author": "kamal-02",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "winston": "^3.17.0",
+    "winston-loki": "^6.1.3"
+  }
+}
