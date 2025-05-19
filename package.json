@@ -1,6 +1,6 @@
 {
   "name": "@kamal-02/audit-logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "description": "A lightweight audit logger using Winston and Loki",
   "scripts": {
@@ -12,6 +12,10 @@
     "loki",
     "winston"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KAMAL-02/audit-logger"
+  },
   "author": "kamal-02",
   "license": "MIT",
   "dependencies": {
